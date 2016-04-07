@@ -1,0 +1,41 @@
+id;constituencies;name;Seats;Population
+1;carlow-kilkenny;Carlow-Kilkenny;5;154,659
+2;cavan-monaghan;Cavan-Monaghan;4;120,483
+3;clare;Clare;4;111,336
+4;cork-east;Cork East;4;114,365
+5;cork-north-central;Cork North-Central;4;117,170
+6;cork-north-west;Cork North-West;3;86,593
+7;cork-south-central;Cork South-Central ;4;117,952
+8;cork-south-west;Cork South-West;3;82,952
+9;donegal;Donegal;5;152,358
+10;dublin-bay-north;Dublin Bay North;5;146,512
+11;dublin-bay-south;Dublin Bay South;4;116,396
+12;dublin-central;Dublin Central;3;89,030
+13;dublin-fingal;Dublin Fingal;5;141,162
+14;dublin-mid-west;Dublin Mid-West;4;110,427
+15;dublin-north-west;Dublin North-West;3;90,534
+16;dublin-rathdown;Dublin Rathdown;3;87,470
+17;dublin-south-central;Dublin South-Central;4;114,660
+18;dublin-south-west;Dublin South-West;5;144,908
+19;dublin-west;Dublin West;4;113,179
+20;dun-laoghaire;Dun Laoghaire;4;118,791
+21;galway-east;Galway East;3;89,564
+22;galway-west;Galway West;5;150,874
+23;kerry;Kerry;5;145,502
+24;kildare-north;Kildare North;4;115,350
+25;kildare-south;Kildare South;3;115,350
+26;laois;Laois;3;87,745
+27;limerick-city;Limerick City;4;113,835
+28;limerick-county;Limerick County;3;83,834
+29;longford-westmeath;Longford-Westmeath;4;116,802
+30;louth;Louth;5;143,272
+31;mayo;Mayo;4;120,332
+32;meath-east;Meath East;3;86,572
+33;meath-west;Meath West;3;85,550
+34;offaly;Offaly;3;87,640
+35;roscommon-galway;Roscommon-Galway;3;84,586
+36;sligo-leitrim;Sligo-Leitrim;4;119,153
+37;tipperary;Tipperary;5;147,801
+38;waterford;Waterford;4;113,795
+39;wexford;Wexford;5;145,320
+40;wicklow;Wicklow;5;141,012
