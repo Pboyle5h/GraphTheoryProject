@@ -1,18 +1,18 @@
-Party,PartyID
-Catholic-Democrats,1
-Communist Party of Ireland,2
-direct-democracy-ireland,3
-Fis Nua,7
-The Workers' Party,19
-Social Democrats,16
-Sinn Fein,15
-Renua,14
-People Before Profit Alliance,13
-Labour Party,12
-Irish Democratic Party,10
-Independents 4 Change,9
-Fianna Faill,5
-Anti Austerity Alliance,24
-Green Party,8
-Fine Gael,6
-Independent,23
+Party;PartyID
+Catholic-Democrats;1
+Communist Party of Ireland;2
+direct-democracy-ireland;3
+Fis Nua;7
+The Workers' Party;19
+Social Democrats;16
+Sinn Fein;15
+Renua;14
+People Before Profit Alliance;13
+Labour Party;12
+Irish Democratic Party;10
+Independents 4 Change;9
+Fianna Faill;5
+Anti Austerity Alliance;24
+Green Party;8
+Fine Gael;6
+Independent;23
