@@ -2199,3 +2199,24 @@ RETURN r;
 2016-04-09 13:06:08.888+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
 2016-04-09 13:06:08.889+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
 2016-04-09 13:21:29.767+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 495ms.
+2016-04-09 13:59:19.158+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [132]:  Starting check pointing...
+2016-04-09 13:59:19.159+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [132]:  Starting store flush...
+2016-04-09 13:59:19.163+0000 INFO  [o.n.k.i.s.c.CountsTracker] About to rotate counts store at transaction 132 to [C:\Users\pauri\Desktop\Graph Theory\GraphTheoryProject\constituencies.graphdb\neostore.counts.db.a], from [C:\Users\pauri\Desktop\Graph Theory\GraphTheoryProject\constituencies.graphdb\neostore.counts.db.b].
+2016-04-09 13:59:19.176+0000 INFO  [o.n.k.i.s.c.CountsTracker] Successfully rotated counts store at transaction 132 to [C:\Users\pauri\Desktop\Graph Theory\GraphTheoryProject\constituencies.graphdb\neostore.counts.db.a], from [C:\Users\pauri\Desktop\Graph Theory\GraphTheoryProject\constituencies.graphdb\neostore.counts.db.b].
+2016-04-09 13:59:19.324+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [132]:  Store flush completed
+2016-04-09 13:59:19.325+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [132]:  Starting appending check point entry into the tx log...
+2016-04-09 13:59:19.344+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [132]:  Appending check point entry into the tx log completed
+2016-04-09 13:59:19.344+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [132]:  Check pointing completed
+2016-04-09 13:59:19.344+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
+2016-04-09 13:59:19.344+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
+2016-04-09 14:04:19.371+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [134]:  Starting check pointing...
+2016-04-09 14:04:19.372+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [134]:  Starting store flush...
+2016-04-09 14:04:19.372+0000 INFO  [o.n.k.i.s.c.CountsTracker] About to rotate counts store at transaction 134 to [C:\Users\pauri\Desktop\Graph Theory\GraphTheoryProject\constituencies.graphdb\neostore.counts.db.b], from [C:\Users\pauri\Desktop\Graph Theory\GraphTheoryProject\constituencies.graphdb\neostore.counts.db.a].
+2016-04-09 14:04:19.380+0000 INFO  [o.n.k.i.s.c.CountsTracker] Successfully rotated counts store at transaction 134 to [C:\Users\pauri\Desktop\Graph Theory\GraphTheoryProject\constituencies.graphdb\neostore.counts.db.b], from [C:\Users\pauri\Desktop\Graph Theory\GraphTheoryProject\constituencies.graphdb\neostore.counts.db.a].
+2016-04-09 14:04:19.476+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [134]:  Store flush completed
+2016-04-09 14:04:19.476+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [134]:  Starting appending check point entry into the tx log...
+2016-04-09 14:04:19.502+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [134]:  Appending check point entry into the tx log completed
+2016-04-09 14:04:19.503+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [134]:  Check pointing completed
+2016-04-09 14:04:19.503+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
+2016-04-09 14:04:19.503+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
+2016-04-09 14:07:19.322+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 281ms.
