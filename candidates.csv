@@ -1,0 +1,553 @@
+first_name,last_name,email,gender,current_td,partyId,party,partyName,constituencyId,constituency,constituencyName
+Dom ,Parker,,Male,FALSE,24,anti-austerity-alliance,Anti Austerity Alliance,29,longford-westmeath,Longford-Westmeath
+Nora,Bennis,,Female,FALSE,1,catholic-democrats,Catholic Democrats,27,limerick-city,Limerick City
+Theresa,Heaney,,Female,FALSE,1,catholic-democrats,Catholic Democrats,8,cork-south-west,Cork South-West
+Noel,McKervey,,Male,FALSE,1,catholic-democrats,Catholic Democrats,29,longford-westmeath,Longford-Westmeath
+Michael,O'Donnell,,Male,FALSE,2,communist-party-of-ireland,Communist Party of Ireland,6,cork-north-west,Cork North-West
+Neville,Bradley,,Male,FALSE,3,direct-democracy-ireland,Direct Democracy Ireland,17,dublin-south-central,Dublin South-Central
+Anthony,Connor,anthony@directdemocracy.ie,Male,FALSE,3,direct-democracy-ireland,Direct Democracy Ireland,30,louth,Louth
+Ben ,Gilroy,,Male,FALSE,3,direct-democracy-ireland,Direct Democracy Ireland,32,meath-east,Meath East
+Pat,Greene,ddigreenpat@gmail.com,Male,FALSE,3,direct-democracy-ireland,Direct Democracy Ireland,30,louth,Louth
+Christopher,Healy,,Male,FALSE,3,direct-democracy-ireland,Direct Democracy Ireland,14,dublin-mid-west,Dublin Mid-West
+Stephanie,Healy,,Female,FALSE,3,direct-democracy-ireland,Direct Democracy Ireland,29,longford-westmeath,Longford-Westmeath
+Katrina,Hutchinson,,Female,FALSE,3,direct-democracy-ireland,Direct Democracy Ireland,40,wicklow,Wicklow
+Mark ,Keogh,,Male,FALSE,3,direct-democracy-ireland,Direct Democracy Ireland,28,limerick-county,Limerick County
+Alan ,Lawes,,Male,FALSE,3,direct-democracy-ireland,Direct Democracy Ireland,33,meath-west,Meath West
+David,Lloyd,,Male,FALSE,3,direct-democracy-ireland,Direct Democracy Ireland,39,wexford,Wexford
+Cormac,MacKay,,Male,FALSE,3,direct-democracy-ireland,Direct Democracy Ireland,15,dublin-north-west,Dublin North-West
+Mick,McDermott,,Male,FALSE,3,direct-democracy-ireland,Direct Democracy Ireland,2,cavan-monaghan,Cavan-Monaghan
+Aengus,Melia,aengusmeliaddi@gmail.com,Male,FALSE,3,direct-democracy-ireland,Direct Democracy Ireland,21,galway-east,Galway East
+Aoife,O'Connell,,Female,FALSE,3,direct-democracy-ireland,Direct Democracy Ireland,2,cavan-monaghan,Cavan-Monaghan
+Ruairi,O'Neill,ruairi.oneill@directdemocracyireland.ie,Male,FALSE,3,direct-democracy-ireland,Direct Democracy Ireland,22,galway-west,Galway West
+Edward,Quilty,,Male,FALSE,3,direct-democracy-ireland,Direct Democracy Ireland,38,waterford,Waterford
+Stephen ,Sinclair,,Male,FALSE,3,direct-democracy-ireland,Direct Democracy Ireland,18,dublin-south-west,Dublin South-West
+Raymond,Whitehead,,Male,FALSE,3,direct-democracy-ireland,Direct Democracy Ireland,20,dun-laoghaire,Dun Laoghaire
+Cordelia,Nic Fhearraigh,,Female,FALSE,7,fis-nua,Fis Nua,9,donegal,Donegal
+Niamh,O'Brien,niamhobrienvoteno1@gmail.com,Female,FALSE,7,fis-nua,Fis Nua,3,clare,Clare
+Barbara,Ahern,barbaraahernff@gmail.com,Female,FALSE,5,fianna-fail,Fianna Faill,4,cork-east,Cork East
+Siobhan,Ambrose,cllrsiobhan.ambrose@southtippcoco.ie,Female,FALSE,5,fianna-fail,Fianna Faill,37,tipperary,Tipperary
+Catherine,Ardagh,catherine@ardagh.org,Female,FALSE,5,fianna-fail,Fianna Faill,17,dublin-south-central,Dublin South-Central
+Bobby,Aylward ,,Male,TRUE,5,fianna-fail,Fianna Faill,1,carlow-kilkenny,Carlow-Kilkenny
+John ,Brassil,cllrjbrassil@gmail.com,Male,FALSE,5,fianna-fail,Fianna Faill,23,kerry,Kerry
+Declan ,Breathnach,declan.breathnach@gmail.com,Male,FALSE,5,fianna-fail,Fianna Faill,30,louth,Louth
+James,Browne,jamesbrownebl@gmail.com,Male,FALSE,5,fianna-fail,Fianna Faill,39,wexford,Wexford
+Mary,Butler,cllrmbutler@waterfordcouncil.ie,Female,FALSE,5,fianna-fail,Fianna Faill,38,waterford,Waterford
+Malcolm,Byrne,Malcolm.byrne@wexfordmcc.ie,Male,FALSE,5,fianna-fail,Fianna Faill,39,wexford,Wexford
+Aoife,Byrne,,Female,FALSE,5,fianna-fail,Fianna Faill,39,wexford,Wexford
+Thomas,Byrne,thomas.Byrne@oireachtas.ie,Male,FALSE,5,fianna-fail,Fianna Faill,32,meath-east,Meath East
+Jackie,Cahill,jackie.cahill@tipperarycoco.ie,Male,FALSE,5,fianna-fail,Fianna Faill,37,tipperary,Tipperary
+Dara,Calleary,dara.calleary@oireachtas.ie,Male,TRUE,5,fianna-fail,Fianna Faill,31,mayo,Mayo
+Pat ,Casey,PCasey@wicklowcoco.ie,Male,FALSE,5,fianna-fail,Fianna Faill,40,wicklow,Wicklow
+Shane,Cassells,shane.cassells@members.meathcoco.ie,Male,FALSE,5,fianna-fail,Fianna Faill,33,meath-west,Meath West
+Lisa,Chambers,lisachambersmayo@gmail.com,Female,FALSE,5,fianna-fail,Fianna Faill,31,mayo,Mayo
+Jack,Chambers,mailto:jack.chambers@outlook.com,Male,FALSE,5,fianna-fail,Fianna Faill,19,dublin-west,Dublin West
+Lorraine ,Clifford Lee,,Female,FALSE,5,fianna-fail,Fianna Faill,13,dublin-fingal,Dublin Fingal
+Emma ,Coffey,,Female,FALSE,5,fianna-fail,Fianna Faill,30,louth,Louth
+Clare ,Colleran Molloy,ccolleranmolloy@eircom.net,Female,FALSE,5,fianna-fail,Fianna Faill,3,clare,Clare
+Niall,Collins,:niall.collins@oireachtas.ie,Male,TRUE,5,fianna-fail,Fianna Faill,28,limerick-county,Limerick County
+John,Connolly,,Male,FALSE,5,fianna-fail,Fianna Faill,22,galway-west,Galway West
+Barry ,Cowen,cowenconstituencyoffice@gmail.com,Male,TRUE,5,fianna-fail,Fianna Faill,34,offaly,Offaly
+Jennifer,Cuffe,jenn.cuffe@gmail.com,Female,FALSE,5,fianna-fail,Fianna Faill,40,wicklow,Wicklow
+Shane,Curran,,Male,FALSE,5,fianna-fail,Fianna Faill,35,roscommon-galway,Roscommon-Galway
+John ,Curran,curranjohna@gmail.com,Male,FALSE,5,fianna-fail,Fianna Faill,14,dublin-mid-west,Dublin Mid-West
+Cormac,Devlin,cdevlin@cllr.dlrcoco.ie,Male,FALSE,5,fianna-fail,Fianna Faill,20,dun-laoghaire,Dun Laoghaire
+Timmy,Dooley,timmy.dooley@oireachtas.ie,Male,TRUE,5,fianna-fail,Fianna Faill,3,clare,Clare
+Mike,Durkan,mike.durkan@gmail.com,Male,FALSE,5,fianna-fail,Fianna Faill,2,cavan-monaghan,Cavan-Monaghan
+Mary,Fitzpatrick,mary.fitzpatrick@outlook.com,Female,FALSE,5,fianna-fail,Fianna Faill,12,dublin-central,Dublin Central
+Eddie ,Fitzpatrick,eddiefitzp@eircom.net,Male,FALSE,5,fianna-fail,Fianna Faill,34,offaly,Offaly
+Sean,Fleming,sean.fleming@oireachtas.ie,Male,TRUE,5,fianna-fail,Fianna Faill,26,laois,Laois
+Pat,Gallagher,patthecope.gallagher@ep.europa.eu,Male,FALSE,5,fianna-fail,Fianna Faill,9,donegal,Donegal
+Connie,Gerety-Quinn,,Female,FALSE,5,fianna-fail,Fianna Faill,29,longford-westmeath,Longford-Westmeath
+Mary,Hanafin,mhanafin@cllr.dlrcoco.ie,Female,FALSE,5,fianna-fail,Fianna Faill,20,dun-laoghaire,Dun Laoghaire
+Sean,Haughey,seanhaughey14@gmail.com,Male,FALSE,5,fianna-fail,Fianna Faill,10,dublin-bay-north,Dublin Bay North
+Deirdre,Heney,heneydm@gmail.com,Female,FALSE,5,fianna-fail,Fianna Faill,10,dublin-bay-north,Dublin Bay North
+Mary ,Hoade,mhoade@cllr.galwaycoco.ie,Female,FALSE,5,fianna-fail,Fianna Faill,22,galway-west,Galway West
+Colm,Keaveney,colm.keaveney@oireachtas.ie,Male,FALSE,5,fianna-fail,Fianna Faill,21,galway-east,Galway East
+Billy,Kelleher,billy.kelleher@oireachtas.ie ,Male,TRUE,5,fianna-fail,Fianna Faill,5,cork-north-central,Cork North-Central
+John,Lahart,jlahart@cllrs.sdublincoco.ie,Male,FALSE,5,fianna-fail,Fianna Faill,18,dublin-south-west,Dublin South-West
+James ,Lawless,james@jameslawless.ie,Male,FALSE,5,fianna-fail,Fianna Faill,24,kildare-north,Kildare North
+Marc,MacSharry,marc.macsharry@oireachtas.ie,Male,FALSE,5,fianna-fail,Fianna Faill,36,sligo-leitrim,Sligo-Leitrim
+Micheal,Martin,micheal@michealmartin.ie,Male,TRUE,5,fianna-fail,Fianna Faill,7,cork-south-central,Cork South-Central 
+Paul,McAuliffe,www.votemcauliffe.com,Male,FALSE,5,fianna-fail,Fianna Faill,15,dublin-north-west,Dublin North-West
+Charlie,McConalogue,charlie.mcconalogue@oireachtas.ie,Male,TRUE,5,fianna-fail,Fianna Faill,9,donegal,Donegal
+Michael ,McDonagh,michaelmcdonaghclare@gmail.com,Male,FALSE,5,fianna-fail,Fianna Faill,3,clare,Clare
+Michael,McGrath,michael.mcgrath@oireachtas.ie,Male,TRUE,5,fianna-fail,Fianna Faill,7,cork-south-central,Cork South-Central 
+John,McGuinness,www.johnmcguinness.ie,Male,TRUE,5,fianna-fail,Fianna Faill,1,carlow-kilkenny,Carlow-Kilkenny
+Norma,Moriarty,moriartynorma@gmail.com,Female,FALSE,5,fianna-fail,Fianna Faill,23,kerry,Kerry
+Michael,Moynihan,,Male,TRUE,5,fianna-fail,Fianna Faill,6,cork-north-west,Cork North-West
+Aindrias ,Moynihan ,ndriasmoynihanccc@eircom.net,Male,FALSE,5,fianna-fail,Fianna Faill,6,cork-north-west,Cork North-West
+Jennifer,Murnane O'Connor,jmurnane@carlow.ie,Female,FALSE,5,fianna-fail,Fianna Faill,1,carlow-kilkenny,Carlow-Kilkenny
+Eugene,Murphy,,Male,FALSE,5,fianna-fail,Fianna Faill,35,roscommon-galway,Roscommon-Galway
+Margaret,Murphy O'Mahony,pmom@eircom.net,Female,FALSE,5,fianna-fail,Fianna Faill,8,cork-south-west,Cork South-West
+Darragh,O'Brien,darragh.obrien@oireachtas.ie,Male,FALSE,5,fianna-fail,Fianna Faill,13,dublin-fingal,Dublin Fingal
+Jim,O'Callaghan,jim@jimocallaghan.com,Male,FALSE,5,fianna-fail,Fianna Faill,11,dublin-bay-south,Dublin Bay South
+Eamon,O'Cuiv,eamon.ocuiv@oireachtas.ie ,Male,TRUE,5,fianna-fail,Fianna Faill,22,galway-west,Galway West
+Willie ,O'Dea,willie.odea@oireachtas.ie,Male,TRUE,5,fianna-fail,Fianna Faill,27,limerick-city,Limerick City
+Sean,O'Fearghail,sofearghail@oireachtas.ie,Male,TRUE,5,fianna-fail,Fianna Faill,25,kildare-south,Kildare South
+Kevin,O'Keefe,kevinokeeffecc@gmail.com,Male,FALSE,5,fianna-fail,Fianna Faill,4,cork-east,Cork East
+Fiona ,O'Loughlin,fiona@fiona.ie,Female,FALSE,5,fianna-fail,Fianna Faill,25,kildare-south,Kildare South
+Paddy,O'Rourke,orourke_paddy@eircom.net,Male,FALSE,5,fianna-fail,Fianna Faill,36,sligo-leitrim,Sligo-Leitrim
+Frank,O'Rourke,votefrankorourke@gmail.com ,Male,FALSE,5,fianna-fail,Fianna Faill,24,kildare-north,Kildare North
+Anne ,Rabbitte ,arabbitte@Cllr.galwaycoco.ie,Female,FALSE,5,fianna-fail,Fianna Faill,21,galway-east,Galway East
+Eamon,Scanlon,,Male,FALSE,5,fianna-fail,Fianna Faill,36,sligo-leitrim,Sligo-Leitrim
+Brendan,Smith,brendan.smith@oir.ie,Male,TRUE,5,fianna-fail,Fianna Faill,2,cavan-monaghan,Cavan-Monaghan
+Michael,Smith,michael.smith@northtippcoco.ie,Male,FALSE,5,fianna-fail,Fianna Faill,37,tipperary,Tipperary
+Niamh ,Smyth,nsmyth@cavancoco.ie,Female,FALSE,5,fianna-fail,Fianna Faill,2,cavan-monaghan,Cavan-Monaghan
+Robert,Troy,,Male,TRUE,5,fianna-fail,Fianna Faill,29,longford-westmeath,Longford-Westmeath
+Mary ,White,mwhite@oireachtas.ie,Female,FALSE,5,fianna-fail,Fianna Faill,16,dublin-rathdown,Dublin Rathdown
+Maria,Bailey,mbailey@cllr.dlrcoco.ie,Female,FALSE,6,fine-gael,Fine Gael,20,dun-laoghaire,Dun Laoghaire
+James ,Bannon,james.bannon@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,29,longford-westmeath,Longford-Westmeath
+Tom,Barry,tom.barry@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,4,cork-east,Cork East
+Pat,Breen,pat.breen@oireachtas.ie,Male,TRUE,6,fine-gael,Fine Gael,3,clare,Clare
+Colm,Brophy,cbrophy@cllrs.sdublincoco.ie,Male,FALSE,6,fine-gael,Fine Gael,18,dublin-south-west,Dublin South-West
+Richard,Bruton,richard.bruton@djei.ie,Male,TRUE,6,fine-gael,Fine Gael,10,dublin-bay-north,Dublin Bay North
+Peter,Burke,peter.burke@westmeathcoco.ie,Male,FALSE,6,fine-gael,Fine Gael,29,longford-westmeath,Longford-Westmeath
+Ray,Butler,,Male,TRUE,6,fine-gael,Fine Gael,33,meath-west,Meath West
+Jerry,Buttimer,jerry.buttimer@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,7,cork-south-central,Cork South-Central 
+Catherine,Byrne,catherine.byrne@oir.ie,Female,TRUE,6,fine-gael,Fine Gael,17,dublin-south-central,Dublin South-Central
+Ciaran,Cannon,ciaran.cannon@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,21,galway-east,Galway East
+Joe ,Carey,joe.carey@oireachtas.ie,Male,TRUE,6,fine-gael,Fine Gael,3,clare,Clare
+Paudie,Coffey,paudie.coffey@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,38,waterford,Waterford
+Aine ,Collins,aine.collins@oir.ie,Female,TRUE,6,fine-gael,Fine Gael,6,cork-north-west,Cork North-West
+Paul,Connaughton ,paulj.connaughton@oir,Male,TRUE,6,fine-gael,Fine Gael,21,galway-east,Galway East
+Thomasina,Connell,,Female,FALSE,6,fine-gael,Fine Gael,26,laois,Laois
+Noel,Coonan,noel.coonan@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,37,tipperary,Tipperary
+Marcella,Corcoran-Kennedy,marcella.corcorankennedy@oir.ie,Female,TRUE,6,fine-gael,Fine Gael,34,offaly,Offaly
+Simon,Coveney ,simon.coveney@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,7,cork-south-central,Cork South-Central 
+Michael,Creed,michael.creed@oireachtas.ie,Male,TRUE,6,fine-gael,Fine Gael,6,cork-north-west,Cork North-West
+Avril,Cronin,,Female,FALSE,6,fine-gael,Fine Gael,40,wicklow,Wicklow
+Jim,Daly,jim.daly@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,8,cork-south-west,Cork South-West
+Michael,D'Arcy,michael.darcy@oir.ie,Male,FALSE,6,fine-gael,Fine Gael,39,wexford,Wexford
+John,Deasy,john.deasy@oireachtas.ie,Male,TRUE,6,fine-gael,Fine Gael,38,waterford,Waterford
+Jimmy ,Deenihan,jimmy.deenihan@oireachtas.ie,Male,TRUE,6,fine-gael,Fine Gael,23,kerry,Kerry
+Pat,Deering,pat.deering@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,1,carlow-kilkenny,Carlow-Kilkenny
+Anne-Marie,Dermody,amdermody@cllrs.sdublincoco.ie,Female,FALSE,6,fine-gael,Fine Gael,18,dublin-south-west,Dublin South-West
+Regina,Doherty ,regina.doherty@oir.ie,Female,TRUE,6,fine-gael,Fine Gael,32,meath-east,Meath East
+Paschal ,Donohoe,paschal.donohoe@oireachtas.ie,Male,TRUE,6,fine-gael,Fine Gael,12,dublin-central,Dublin Central
+Andrew,Doyle,andrew.doyle@oireachtas.ie ,Male,TRUE,6,fine-gael,Fine Gael,40,wicklow,Wicklow
+Bernard,Durkan,bernard.durkan@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,24,kildare-north,Kildare North
+Damien,English,damien.english@oireachtas.ie,Male,TRUE,6,fine-gael,Fine Gael,33,meath-west,Meath West
+Alan ,Farrell,alan.farrell@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,13,dublin-fingal,Dublin Fingal
+David,Fitzgerald,davidfitzgerald@fitzgeraldauctioneers.ie,Male,FALSE,6,fine-gael,Fine Gael,1,carlow-kilkenny,Carlow-Kilkenny
+Frances ,Fitzgerald,frances.fitzgerald@oir.ie,Female,TRUE,6,fine-gael,Fine Gael,14,dublin-mid-west,Dublin Mid-West
+Peter,Fitzpatrick,peterm.fitzpatrick@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,30,louth,Louth
+Charlie,Flanagan,charlie.flanagan@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,26,laois,Laois
+Brendan ,Griffin ,,Male,TRUE,6,fine-gael,Fine Gael,23,kerry,Kerry
+Noel,Harrington,noel.harrington@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,8,cork-south-west,Cork South-West
+Simon,Harris,simon.harris@oireachtas.ie,Male,TRUE,6,fine-gael,Fine Gael,40,wicklow,Wicklow
+Paddy,Harte,,Male,FALSE,6,fine-gael,Fine Gael,9,donegal,Donegal
+Tom ,Hayes,tom.hayes@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,37,tipperary,Tipperary
+Martin,Heydon,martin.heydon@oireachtas.ie,Male,TRUE,6,fine-gael,Fine Gael,25,kildare-south,Kildare South
+Julie,Hogan,,Female,FALSE,6,fine-gael,Fine Gael,39,wexford,Wexford
+Maura ,Hopkins,maurahopkinsfg@gmail.com,Female,FALSE,6,fine-gael,Fine Gael,35,roscommon-galway,Roscommon-Galway
+Mary,Howard,maryhoward2009@gmail.com,Female,FALSE,6,fine-gael,Fine Gael,3,clare,Clare
+Heather,Humphries,heather.humphreys@oir.ie,Female,TRUE,6,fine-gael,Fine Gael,2,cavan-monaghan,Cavan-Monaghan
+Derek,Keating,derek.keating@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,14,dublin-mid-west,Dublin Mid-West
+Paul,Kehoe,paul.kehoe@taoiseach.gov.ie,Male,TRUE,6,fine-gael,Fine Gael,39,wexford,Wexford
+Enda,Kenny,endakenny@finegael.ie,Male,TRUE,6,fine-gael,Fine Gael,31,mayo,Mayo
+Sean,Kyne,sean.kyne@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,22,galway-west,Galway West
+Anthony,Lawlor,anthony.lawlor@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,24,kildare-north,Kildare North
+Josepha,Madigan,josephamadiganfg@gmail.com,Female,FALSE,6,fine-gael,Fine Gael,16,dublin-rathdown,Dublin Rathdown
+Noel,McCarthy,noelmccarthy28@hotmail.com,Male,FALSE,6,fine-gael,Fine Gael,4,cork-east,Cork East
+Helen,McEntee,elen.mcentee@oireachtas.ie,Female,TRUE,6,fine-gael,Fine Gael,32,meath-east,Meath East
+Gabrielle,McFadden,gabrielle.mcfadden@oir.ie,Female,TRUE,6,fine-gael,Fine Gael,29,longford-westmeath,Longford-Westmeath
+Joe,McHugh,joe.mchugh@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,9,donegal,Donegal
+Tony,McLoughlin,tony.mcloughlin@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,36,sligo-leitrim,Sligo-Leitrim
+Fiona,McLoughlin-Healy,fiona@fmcloughlinhealy.ie ,Female,FALSE,6,fine-gael,Fine Gael,25,kildare-south,Kildare South
+Mary ,Mitchell-O'Connor ,mary.mitchelloconnor@oir.ie,Female,TRUE,6,fine-gael,Fine Gael,20,dun-laoghaire,Dun Laoghaire
+Michelle,Mulherin,michelle.mulherin@oireachtas.ie,Female,TRUE,6,fine-gael,Fine Gael,31,mayo,Mayo
+Dara,Murphy,dara.murphy@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,5,cork-north-central,Cork North-Central
+Eoghan ,Murphy,eoghan.murphy@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,11,dublin-bay-south,Dublin Bay South
+Marie ,Murphy,nfo@mariemurphy.ie,Female,FALSE,6,fine-gael,Fine Gael,37,tipperary,Tipperary
+Hildegarde ,Naughten,hildegarde.naughton@oir.ie,Female,FALSE,6,fine-gael,Fine Gael,22,galway-west,Galway West
+Tom,Neville,tom.neville@limerick.ie,Male,FALSE,6,fine-gael,Fine Gael,28,limerick-county,Limerick County
+Michael ,Noonan,minister@finance.gov.ie,Male,TRUE,6,fine-gael,Fine Gael,27,limerick-city,Limerick City
+Catherine ,Noone,catherine.noone@oireachtas.ie,Female,FALSE,6,fine-gael,Fine Gael,19,dublin-west,Dublin West
+Kate,O'Connell,kate.oconnell@dublincity.ie,Female,FALSE,6,fine-gael,Fine Gael,11,dublin-bay-south,Dublin Bay South
+Kieran,O'Donnell,kieran.odonnell@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,27,limerick-city,Limerick City
+Grace,O'Donnell,,Female,FALSE,6,fine-gael,Fine Gael,23,kerry,Kerry
+Patrick,O'Donovan,patrick.odonovan@oireachtas.ie,Male,TRUE,6,fine-gael,Fine Gael,28,limerick-county,Limerick County
+Fergus,O'Dowd,fergus.odowd@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,30,louth,Louth
+Julie,O'Leary,,Female,FALSE,6,fine-gael,Fine Gael,5,cork-north-central,Cork North-Central
+John ,O'Mahony,john.omahony@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,22,galway-west,Galway West
+Naoise,Murray,campaign@naoise.ie,Male,FALSE,6,fine-gael,Fine Gael,10,dublin-bay-north,Dublin Bay North
+Joe ,O'Reilly,joe.oreilly@oireachtas.ie,Male,TRUE,6,fine-gael,Fine Gael,2,cavan-monaghan,Cavan-Monaghan
+John,Perry,,Male,TRUE,6,fine-gael,Fine Gael,36,sligo-leitrim,Sligo-Leitrim
+John Paul ,Phelan,johnpaul.phelan@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,1,carlow-kilkenny,Carlow-Kilkenny
+Stephanie Bernadette,Regan,stephanie@stephanieregan.ie,Female,FALSE,6,fine-gael,Fine Gael,10,dublin-bay-north,Dublin Bay North
+James ,Reilly,james.reilly@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,13,dublin-fingal,Dublin Fingal
+Gerry,Reynolds,,Male,TRUE,6,fine-gael,Fine Gael,36,sligo-leitrim,Sligo-Leitrim
+Michael,Ring,michael.ring@oireachtas.ie,Male,TRUE,6,fine-gael,Fine Gael,31,mayo,Mayo
+Noel,Rock,noel@noelrock.ie,Male,FALSE,6,fine-gael,Fine Gael,15,dublin-north-west,Dublin North-West
+Alan,Shatter,alan.shatter@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,16,dublin-rathdown,Dublin Rathdown
+David ,Stanton,david.stanton@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,4,cork-east,Cork East
+Leo,Varadkar,leo.varadkar@oir.ie,Male,TRUE,6,fine-gael,Fine Gael,19,dublin-west,Dublin West
+Karen,Warren,karen.warren@oir.ie,Female,FALSE,6,fine-gael,Fine Gael,18,dublin-south-west,Dublin South-West
+Lorna ,Bogue,,Female,FALSE,8,green-party,Green Party,7,cork-south-central,Cork South-Central 
+Micheal,Callaghan,,Male,FALSE,8,green-party,Green Party,2,cavan-monaghan,Cavan-Monaghan
+Caroline,Conroy,,Female,FALSE,8,green-party,Green Party,15,dublin-north-west,Dublin North-West
+Donna,Cooney,donnacooneygreenparty@yahoo.ie,Female,FALSE,8,green-party,Green Party,10,dublin-bay-north,Dublin Bay North
+Alexander,Cosgrave,darthal101@gmail.com,Male,FALSE,8,green-party,Green Party,28,limerick-county,Limerick County
+Mark,Dearey ,mark.dearey@gmail.com  ,Male,FALSE,8,green-party,Green Party,30,louth,Louth
+Francis Noel,Duffy,,Male,FALSE,8,green-party,Green Party,18,dublin-south-west,Dublin South-West
+Christopher,Fettes,bloomfettes@eircom.net,Male,FALSE,8,green-party,Green Party,34,offaly,Offaly
+Michael,Fitzgerald,mfkyglas@gmail.com,Male,FALSE,8,green-party,Green Party,23,kerry,Kerry
+Gearoid,Fitzgibbon,,Male,FALSE,8,green-party,Green Party,37,tipperary,Tipperary
+Paula ,Flanagan,paulagreenparty@gmail.com,Female,FALSE,8,green-party,Green Party,9,donegal,Donegal
+James,Gaffney,,Male,FALSE,8,green-party,Green Party,27,limerick-city,Limerick City
+Natasha ,Harty,thehartys@eircom.net,Female,FALSE,8,green-party,Green Party,4,cork-east,Cork East
+Miriam,Hennesy,,Female,FALSE,8,green-party,Green Party,35,roscommon-galway,Roscommon-Galway
+Tom,Kivlehan,tkivelan@gmail.com,Male,FALSE,8,green-party,Green Party,14,dublin-mid-west,Dublin Mid-West
+Manchan ,Magan,,Male,FALSE,8,green-party,Green Party,29,longford-westmeath,Longford-Westmeath
+Cormac,Manning,,Male,FALSE,8,green-party,Green Party,6,cork-north-west,Cork North-West
+Catherine,Martin,cmartin@cllr.dlrcoco.ie,Female,FALSE,8,green-party,Green Party,16,dublin-rathdown,Dublin Rathdown
+Steven,Matthews,stevensgreenbray@gmail.com  ,Male,FALSE,8,green-party,Green Party,40,wicklow,Wicklow
+Suzanne,McEneaney,,Female,FALSE,8,green-party,Green Party,25,kildare-south,Kildare South
+Seamus,McMenamin,voteforseamus@gmail.com,Male,FALSE,8,green-party,Green Party,33,meath-west,Meath West
+Sinead,Moore,,Female,FALSE,8,green-party,Green Party,26,laois,Laois
+Oliver ,Moran,oliver@oliver.ie,Male,FALSE,8,green-party,Green Party,5,cork-north-central,Cork North-Central
+Mairead,Ni Chroinin,maireadnichroinin@gmail.com,Male,FALSE,8,green-party,Green Party,21,galway-east,Galway East
+Maebh,Ni Fhallain,,Female,FALSE,8,green-party,Green Party,24,kildare-north,Kildare North
+Joe,O'Brien,joefingalgreen@gmail.com,Male,FALSE,8,green-party,Green Party,13,dublin-fingal,Dublin Fingal
+Sean,O'Buachalla ,emailseanobuachalla@gmail.com,Male,FALSE,8,green-party,Green Party,32,meath-east,Meath East
+Roderic ,O'Gorman,rodericogorman@gmail.com,Male,FALSE,8,green-party,Green Party,19,dublin-west,Dublin West
+Oisin,O'hAlmhain,oisin@real-dublin.ie,Male,FALSE,8,green-party,Green Party,17,dublin-south-central,Dublin South-Central
+Leslie,O'Hora,,Male,FALSE,8,green-party,Green Party,36,sligo-leitrim,Sligo-Leitrim
+Johnny,O'Mahony,,Male,FALSE,8,green-party,Green Party,8,cork-south-west,Cork South-West
+Grace,O'Sullivan,,Female,FALSE,8,green-party,Green Party,38,waterford,Waterford
+Eamon,Ryan,eamon.ryan@greenparty.ie,Male,FALSE,8,green-party,Green Party,11,dublin-bay-south,Dublin Bay South
+Margaret,Sheehan,,Female,FALSE,8,green-party,Green Party,31,mayo,Mayo
+Seamus,Sheridan,seamussheridan@greenparty.ie,Male,FALSE,8,green-party,Green Party,22,galway-west,Galway West
+Fergal ,Smith,fergal.smith@yahoo.ie,Male,FALSE,8,green-party,Green Party,3,clare,Clare
+Ossian,Smyth,osmyth@cllr.dlrcoco.ie,Male,FALSE,8,green-party,Green Party,20,dun-laoghaire,Dun Laoghaire
+Ian Noel,Smyth,,Male,FALSE,8,green-party,Green Party,12,dublin-central,Dublin Central
+Ann,Walsh,,Female,FALSE,8,green-party,Green Party,39,wexford,Wexford
+Malcolm ,Noonan,malcolm.noonan@kilkennycoco.ie,Male,Male,8,green-party,Green Party,1,carlow-kilkenny,Carlow-Kilkenny
+Sheikh Mohiuddin,Ahmed,smahmed65@gmail.com,Male,FALSE,23,independent,Independent,38,waterford,Waterford
+Patrick,Akpoveta,,Male,FALSE,23,independent,Independent,14,dublin-mid-west,Dublin Mid-West
+Joe,Behan,joebehan@outlook.ie,Male,FALSE,23,independent,Independent,40,wicklow,Wicklow
+Michael,Beirne,,Male,FALSE,23,independent,Independent,24,kildare-north,Kildare North
+Joe,Bonner,jbonner@members.meathcoco.ie,Male,FALSE,23,independent,Independent,32,meath-east,Meath East
+Kate,Bopp, info@katebopp.com,Female,FALSE,23,independent,Independent,34,offaly,Offaly
+David ,Bradley,christiancandidate@icloud.com,Male,FALSE,23,independent,Independent,30,louth,Louth
+Declan,Bree,dbree@eircom.net,Male,FALSE,23,independent,Independent,36,sligo-leitrim,Sligo-Leitrim
+Paddy,Bullman,,Male,FALSE,23,independent,Independent,4,cork-east,Cork East
+Declan ,Burke,declantburke@gmail.com,Male,FALSE,23,independent,Independent,18,dublin-south-west,Dublin South-West
+Christy,Burke,christy.burke@dublincity.ie,Male,FALSE,23,independent,Independent,12,dublin-central,Dublin Central
+Richard ,Cahill,Richard_cahill@eircom.net,Male,FALSE,23,independent,Independent,3,clare,Clare
+Kevin,Callan,kevin.callan@louthcoco.ie,Male,FALSE,23,independent,Independent,30,louth,Louth
+Sean ,Canney,scanney@cllr.galwaycoco.ie,Male,FALSE,23,independent,Independent,21,galway-east,Galway East
+Ross,Cannon,,Male,FALSE,23,independent,Independent,4,cork-east,Cork East
+Ger,Carthy,,Male,FALSE,23,independent,Independent,39,wexford,Wexford
+Dermot ,Casey,,Male,FALSE,23,independent,Independent,19,dublin-west,Dublin West
+Marie,Casserly ,,Female,FALSE,23,independent,Independent,36,sligo-leitrim,Sligo-Leitrim
+James ,Charity ,jamesdcharity@yahoo.ie,Male,FALSE,23,independent,Independent,22,galway-west,Galway West
+TJ,Clare,,Male,FALSE,23,independent,Independent,19,dublin-west,Dublin West
+Paul,Clarke,info@paulclarke.ie,Male,FALSE,23,independent,Independent,10,dublin-bay-north,Dublin Bay North
+Alan ,Coleman,alancolemanccc@gmail.com,Male,FALSE,23,independent,Independent,8,cork-south-west,Cork South-West
+Tony ,Coleman,,Male,FALSE,23,independent,Independent,35,roscommon-galway,Roscommon-Galway
+Michael ,Collins,collinsmick68@gmail.com,Male,FALSE,23,independent,Independent,8,cork-south-west,Cork South-West
+Sean,Conlan,sean.conlan@oireachtas.ie,Male,TRUE,23,independent,Independent,2,cavan-monaghan,Cavan-Monaghan
+Catherine,Connolly,cconnolly@cllr.galwaycity.ie,Female,FALSE,23,independent,Independent,22,galway-west,Galway West
+Jerry,Cowley,,Male,FALSE,23,independent,Independent,31,mayo,Mayo
+Declen,Crowe,,Male,FALSE,23,independent,Independent,25,kildare-south,Kildare South
+Mike ,Cubbard,,Male,FALSE,23,independent,Independent,22,galway-west,Galway West
+Marcus,De Brun,,Male,FALSE,23,independent,Independent,13,dublin-fingal,Dublin Fingal
+Michael,Dillon,,Male,FALSE,23,independent,Independent,37,tipperary,Tipperary
+Gerard,Dunne,,Male,FALSE,23,independent,Independent,24,kildare-north,Kildare North
+John,Dwyer,john.dwyer@newrosstc.ie,Male,FALSE,23,independent,Independent,39,wexford,Wexford
+Brian,Fagan,,Male,FALSE,23,independent,Independent,29,longford-westmeath,Longford-Westmeath
+Michael,Fahy,None,Male,FALSE,23,independent,Independent,21,galway-east,Galway East
+Thomas Declen,Fallon,,Male,FALSE,23,independent,Independent,35,roscommon-galway,Roscommon-Galway
+Patrick ,Feeney,,Male,FALSE,23,independent,Independent,22,galway-west,Galway West
+Mick,Finn,,Male,FALSE,23,independent,Independent,7,cork-south-central,Cork South-Central 
+Mary ,Fitzgibbon,maryfitzgibbon2016@gmail.com,Female,FALSE,23,independent,Independent,23,kerry,Kerry
+Michael ,Fitzmaurice,,Male,FALSE,23,independent,Independent,35,roscommon-galway,Roscommon-Galway
+Peter,Fitzpatrick,mail@peterfitz.ie,Male,FALSE,23,independent,Independent,18,dublin-south-west,Dublin South-West
+Mannix,Flynn,mannix.flynn@dublincity.ie,Male,FALSE,23,independent,Independent,11,dublin-bay-south,Dublin Bay South
+John,Foley,cllr.johnfoley@gmail.com,Male,FALSE,23,independent,Independent,34,offaly,Offaly
+Sean,Forkan,,Male,FALSE,23,independent,Independent,31,mayo,Mayo
+Caroline,Foxe,,Female,FALSE,23,independent,Independent,39,wexford,Wexford
+Roslyn,Fuller,fullerr@tcd.ie,Female,FALSE,23,independent,Independent,13,dublin-fingal,Dublin Fingal
+Henry,Gaynor,,Male,FALSE,23,independent,Independent,23,kerry,Kerry
+Keith,Gilligan,,Male,FALSE,23,independent,Independent,1,carlow-kilkenny,Carlow-Kilkenny
+Paul,Gogarty,,Male,FALSE,23,independent,Independent,14,dublin-mid-west,Dublin Mid-West
+Trevor,Golden,query@helpdesk.trevorgolden.ie,Male,FALSE,23,independent,Independent,33,meath-west,Meath West
+William,Gorman,,Male,FALSE,23,independent,Independent,11,dublin-bay-south,Dublin Bay South
+William,Gorman,,Male,FALSE,23,independent,Independent,12,dublin-central,Dublin Central
+Noel,Grealish,noel.grealish@oireachtas.ie,Male,TRUE,23,independent,Independent,22,galway-west,Galway West
+Shirley,Griffin,,Female,FALSE,23,independent,Independent,6,cork-north-west,Cork North-West
+Des,Guckian,,Male,FALSE,23,independent,Independent,36,sligo-leitrim,Sligo-Leitrim
+Jimmy,Guerin,jimmy@jimmyguerin.ie,Male,FALSE,23,independent,Independent,10,dublin-bay-north,Dublin Bay North
+Andre Sibo ,Hakizimana,,Male,FALSE,23,independent,Independent,3,clare,Clare
+John,Halligan,john.halligan@oireachtas.ie ,Male,TRUE,23,independent,Independent,38,waterford,Waterford
+Paul,Hand,phand@dublincity.ie,Male,FALSE,23,independent,Independent,17,dublin-south-central,Dublin South-Central
+Joe,Hannigan ,,Male,FALSE,23,independent,Independent,34,offaly,Offaly
+Joe,Harris,joeharriscork@gmail.com,Male,FALSE,23,independent,Independent,7,cork-south-central,Cork South-Central 
+Michael,Harty,,Male,FALSE,23,independent,Independent,3,clare,Clare
+Desmond,Hayes,djhlimerick@gmail.com,Male,FALSE,23,independent,Independent,27,limerick-city,Limerick City
+Seamus,Healy,seamus.Healy@oireachtas.ie,Male,TRUE,23,independent,Independent,37,tipperary,Tipperary
+Fidelma,Healy-Eames,fidelma.healy.eames@oir.ie,Female,FALSE,23,independent,Independent,22,galway-west,Galway West
+Michael ,Healy Rae,michael.healy-rae@oireachtas.ie ,Male,TRUE,23,independent,Independent,23,kerry,Kerry
+Danny,Healy-Rae,,Male,FALSE,23,independent,Independent,23,kerry,Kerry
+Elizabeth,Hourihane,,Female,FALSE,23,independent,Independent,7,cork-south-central,Cork South-Central 
+Bernie ,Hughes,,Female,FALSE,23,independent,Independent,15,dublin-north-west,Dublin North-West
+Carol,Hunt,,Female,FALSE,23,independent,Independent,20,dun-laoghaire,Dun Laoghaire
+Tim,Jackson, tim@votetimjackson.com,Male,FALSE,23,independent,Independent,9,donegal,Donegal
+Donal ,Jackson,,Male,FALSE,23,independent,Independent,29,longford-westmeath,Longford-Westmeath
+Peter,Jordan,peterjordanballina@gmail.com,Male,FALSE,23,independent,Independent,31,mayo,Mayo
+Bob,Kearns,,Male,FALSE,23,independent,Independent,40,wicklow,Wicklow
+Charlie,Keddy,votekeddy@gmail.com,Male,FALSE,23,independent,Independent,40,wicklow,Wicklow
+John Dominic,Keigher,,Male,FALSE,23,independent,Independent,11,dublin-bay-south,Dublin Bay South
+Niamh,Kennedy,kennedyniamhm@gmail.com,Female,FALSE,23,independent,Independent,9,donegal,Donegal
+Sharon ,Keogan,sharonkeogan@eircom.net,Female,FALSE,23,independent,Independent,32,meath-east,Meath East
+Ger,Keohane,,Male,FALSE,23,independent,Independent,5,cork-north-central,Cork North-Central
+Guinan,Kerry,kerry.guinan@gmail.com,Male,FALSE,23,independent,Independent,12,dublin-central,Dublin Central
+Haroon,Khan,,Male,FALSE,23,independent,Independent,14,dublin-mid-west,Dublin Mid-West
+Thomas,Kiely,,Male,FALSE,23,independent,Independent,5,cork-north-central,Cork North-Central
+Rose,Leadbetter ,,Female,FALSE,23,independent,Independent,7,cork-south-central,Cork-South-Central
+Clare,Leonard,,Male,FALSE,23,independent,Independent,14,dublin-mid-west,Dublin Mid-West
+Mary,Linehan Foley,mlinehanfoley@hotmail.com,Female,FALSE,23,independent,Independent,4,cork-east,Cork East
+Michael,Lowry,michael.lowry@oireachtas.ie,Male,TRUE,23,independent,Independent,37,tipperary,Tipperary
+Ian,Lynch, ianvlynch@gmail.com,Male,FALSE,23,independent,Independent,3,clare,Clare
+Alan,MacStiofain,votealanmac@gmail.com,Male,FALSE,23,independent,Independent,11,dublin-bay-south,Dublin Bay South
+John,Malone,info@christianandjobsactionparty.com,Male,FALSE,23,independent,Independent,33,meath-west,Meath West
+Eamonn,Maloney,eamonn.maloney@oireachtas.ie,Male,TRUE,23,independent,Independent,18,dublin-south-west,Dublin South-West
+Paddy,Manning,,Male,FALSE,23,independent,Independent,1,carlow-kilkenny,Carlow-Kilkenny
+Stephen ,Manning,,Male,FALSE,23,independent,Independent,31,mayo,Mayo
+Peter ,Matthews,peter.mathews@oireachtas.ie,Male,TRUE,23,independent,Independent,16,dublin-rathdown,Dublin Rathdown
+Frank,McBrearty,,Male,FALSE,23,independent,Independent,9,donegal,Donegal
+Kieran,McCarthy,info@kieranmccarthy.ie,Male,FALSE,23,independent,Independent,4,cork-east,Cork East
+Ian,McGarvey,IanMcGarvey@donegalcoco.ie,Male,FALSE,23,independent,Independent,9,donegal,Donegal
+Finian,McGrath,finian.mcgrath@oireachtas.ie,Male,TRUE,23,independent,Independent,10,dublin-bay-north,Dublin Bay North
+Mattie,McGrath,,Male,TRUE,23,independent,Independent,37,tipperary,Tipperary
+David,McGuinness ,dmcguinn@tcd.ie,Male,FALSE,23,independent,Independent,19,dublin-west,Dublin West
+Cormac,McKay,cormacdublinddi@gmail.com,Male,FALSE,23,independent,Independent,12,dublin-central,Dublin Central
+Jimmy,Mee,,Male,FALSE,23,independent,Independent,2,cavan-monaghan,Cavan-Monaghan
+James,Miller,jamiller17@hotmail.com,Male,FALSE,23,independent,Independent,29,longford-westmeath,Longford-Westmeath
+Michael,Mohally,,Male,FALSE,23,independent,Independent,7,cork-south-central,Cork South-Central 
+Emmet,Moloney,,Male,FALSE,23,independent,Independent,39,wexford,Wexford
+Michael ,Mooney,mci.donegal@gmail.com,Male,FALSE,23,independent,Independent,9,donegal,Donegal
+Kevin,Moran,kmoran@westmeathcoco.ie,Male,FALSE,23,independent,Independent,29,longford-westmeath,Longford-Westmeath
+James,Morgan,,Male,FALSE,23,independent,Independent,29,longford-westmeath,Longford-Westmeath
+Dermot ,Mulqueen,dermot@dermotmulqueen.com,Male,FALSE,23,independent,Independent,3,clare,Clare
+Mick,Murphy,,Male,FALSE,23,independent,Independent,5,cork-north-central,Cork North-Central
+Kevin ,Murphy,,Male,FALSE,23,independent,Independent,23,kerry,Kerry
+Tony,Murphy ,tonymurphyfingal@gmail.com,Male,FALSE,23,independent,Independent,13,dublin-fingal,Dublin Fingal
+Richard,Murray,richardmurray@outlook.ie,Male,FALSE,23,independent,Independent,17,dublin-south-central,Dublin South-Central
+Eamon,Murray,,Male,FALSE,23,independent,Independent,36,sligo-leitrim,Sligo-Leitrim
+Denis,Naughten,,Male,TRUE,23,independent,Independent,35,roscommon-galway,Roscommon-Galway
+Ann,Norton,candabrodie@eircom.net,Female,FALSE,23,independent,Independent,3,clare,Clare
+Gerry,O'Boyle,,Male,FALSE,23,independent,Independent,31,mayo,Mayo
+Emmett,O'Brien,emmett.obrien@limerick.ie,Male,FALSE,23,independent,Independent,28,limerick-county,Limerick County
+Diarmaid,O'Cadhla,,Male,FALSE,23,independent,Independent,7,cork-south-central,Cork South-Central 
+Proinsias,O'Conarain,,Male,FALSE,23,independent,Independent,10,dublin-bay-north,Dublin Bay North
+Fergal,O'Connell,,Male,FALSE,23,independent,Independent,13,dublin-fingal,Dublin Fingal
+Richard ,O'Donoghue,,Male,FALSE,23,independent,Independent,28,limerick-county,Limerick County
+Deirdre,O'Donovan,dodonovan@cllrs.sdublincoco.ie,Female,FALSE,23,independent,Independent,18,dublin-south-west,Dublin South-West
+Diarmuid ,O'Flynn,ballyheanews@gmail.com,Male,FALSE,23,independent,Independent,6,cork-north-west,Cork North-West
+John,O'Gorman,,Male,FALSE,23,independent,Independent,28,limerick-county,Limerick County
+Frank,O'Gorman,info@frankogorman.ie/,Male,FALSE,23,independent,Independent,18,dublin-south-west,Dublin South-West
+Michael ,O'Gorman,,Male,FALSE,23,independent,Independent,23,kerry,Kerry
+Bernie ,O'Hara,,Female,FALSE,23,independent,Independent,36,sligo-leitrim,Sligo-Leitrim
+Fiona ,O'Leary,,Female,FALSE,23,independent,Independent,8,cork-south-west,Cork South-West
+Peter,O'Loughlin,,Male,FALSE,23,independent,Independent,5,cork-north-central,Cork North-Central
+George,O'Malley,georgeomalley5@gmail.com,Female,FALSE,23,independent,Independent,31,mayo,Mayo
+Damien,O'Neill,,Male,FALSE,23,independent,Independent,10,dublin-bay-north,Dublin Bay North
+Steven ,O'Riordan,,Male,FALSE,23,independent,Independent,6,cork-north-west,Cork North-West
+John Paul,O'Shea,oshea_jp@hotmail.com ,Male,FALSE,23,independent,Independent,6,cork-north-west,Cork North-West
+Maureen ,O'Sullivan,maureen.osullivan@oireachtas.ie,Female,TRUE,23,independent,Independent,12,dublin-central,Dublin Central
+Jerry,O'Sullivan,jerryosullivancork@gmail.com,Male,FALSE,23,independent,Independent,6,cork-north-west,Cork North-West
+Elizabeth ,O'Sullivan,,Female,FALSE,23,independent,Independent,24,kildare-north,Kildare North
+Cieran,Perry,cieran.perry@dublincity.ie,Male,FALSE,23,independent,Independent,12,dublin-central,Dublin Central
+Gillian,Powell,gillianpowellcork@yahoo.ie,Female,FALSE,23,independent,Independent,8,cork-south-west,Cork South-West
+Averil,Power,averil.power@oir.ie,Female,FALSE,23,independent,Independent,10,dublin-bay-north,Dublin Bay North
+Thomas,Pringle,thomas.pringle@oir.ie,Male,TRUE,23,independent,Independent,9,donegal,Donegal
+Kieran Adam,Quigley,kieranadamquigley@gmail.com,Male,FALSE,23,independent,Independent,18,dublin-south-west,Dublin South-West
+Denis,Riordan,,Male,FALSE,23,independent,Independent,27,limerick-city,Limerick City
+Tommy,Roddy,campaign@tommyroddy.com,Male,FALSE,23,independent,Independent,22,galway-west,Galway West
+Shane,Ross,shane.ross@oireachtas.ie,Male,TRUE,23,independent,Independent,16,dublin-rathdown,Dublin Rathdown
+Teresa,Ryan-Feehan,,Female,FALSE,23,independent,Independent,34,offaly,Offaly
+Mae,Sexton,,Female,FALSE,23,independent,Independent,29,longford-westmeath,Longford-Westmeath
+Dessie,Shiels,info@dessieshiels.com,Male,FALSE,23,independent,Independent,9,donegal,Donegal
+Emmett,Smith,,M,FALSE,23,independent,Independent,2,cavan-monaghan,Cavan-Monaghan
+Barbara,Smyth,barbara@barbarasmyth.ie,Female,FALSE,23,independent,Independent,29,longford-westmeath,Longford-Westmeath
+Joan,Summerville-Malloy,,Female,FALSE,23,independent,Independent,18,dublin-south-west,Dublin South-West
+Bernard,Sweeney ,,Male,FALSE,23,independent,Independent,36,sligo-leitrim,Sligo-Leitrim
+Eoin,Tierney,,Male,FALSE,23,independent,Independent,11,dublin-bay-south,Dublin Bay South
+Francis ,Timmons,info@francistimmons.com,Male,FALSE,23,independent,Independent,14,dublin-mid-west,Dublin Mid-West
+Kamal ,Uddin,,Male,FALSE,23,independent,Independent,31,mayo,Mayo
+John,Walsh,jdmwalsh@gmail.com,Male,FALSE,23,independent,Independent,38,waterford,Waterford
+Noel,Walsh,Info@NoelGWalsh.ie,Male,FALSE,23,independent,Independent,1,carlow-kilkenny,Carlow-Kilkenny
+John ,Wilson,,Male,FALSE,23,independent,Independent,2,cavan-monaghan,Cavan-Monaghan
+Maeve,Yore,maeve.yore@louthcoco.ie,Female,FALSE,23,independent,Independent,30,louth,Louth
+Brendan,Young ,young.brend@gmail.com,Male,FALSE,23,independent,Independent,24,kildare-north,Kildare North
+Katherine ,Zappone,katherine.zappone@oireachtas.ie,Female,FALSE,23,independent,Independent,18,dublin-south-west,Dublin South-West
+Tommy,Broughan,thomas_p_broughan@oireachtas.ie,Male,TRUE,9,independents-4-change,Independents 4 Change,10,dublin-bay-north,Dublin Bay North
+Joan,Collins,joan.collins@oir.ie,Female,TRUE,9,independents-4-change,Independents 4 Change,17,dublin-south-central,Dublin South-Central
+Clare,Daly,clare.daly@oireachtas.ie,Female,TRUE,9,independents-4-change,Independents 4 Change,13,dublin-fingal,Dublin Fingal
+Barry ,Martin,barrymartinpbp@gmail.com,Male,FALSE,9,independents-4-change,Independents 4 Change,13,dublin-fingal,Dublin Fingal
+Mick,Wallace,mick.wallace@oireachtas.ie ,Male,TRUE,9,independents-4-change,Independents 4 Change,39,wexford,Wexford
+Ken,Smollen,kennethsmollen@gmail.com,Male,FALSE,10,irish-democratic-party,Irish Democratic Party,34,offaly,Offaly
+Joan ,Burton,joan.burton@oireachtas.ie,Female,TRUE,12,labour-party,Labour Party,19,dublin-west,Dublin West
+Eric,Byrne,eric.byrne@oireachtas.ie,Male,TRUE,12,labour-party,Labour Party,17,dublin-south-central,Dublin South-Central
+Ciara,Conway,ciara.conway@oir.ie ,Female,TRUE,12,labour-party,Labour Party,38,waterford,Waterford
+Joe,Costello,joe.costello@oireachtas.ie ,Male,TRUE,12,labour-party,Labour Party,12,dublin-central,Dublin Central
+Mick,Duff,mduff@sdublincoco.ie,Male,FALSE,12,labour-party,Labour Party,18,dublin-south-west,Dublin South-West
+Anne ,Ferris,anneferris7@gmail.com,Female,TRUE,12,labour-party,Labour Party,40,wicklow,Wicklow
+Dominic ,Hannigan,dominic.hannigan@oir.ie,Male,TRUE,12,labour-party,Labour Party,32,meath-east,Meath East
+Lorraine ,Higgins,lorraine.higgins@oir.ie,Female,FALSE,12,labour-party,Labour Party,21,galway-east,Galway East
+Brendan,Howlin,brendan.howlin@oireachtas.ie,Male,TRUE,12,labour-party,Labour Party,39,wexford,Wexford
+Kevin,Humphreys,kevin.humphreys@oir.ie,Male,TRUE,12,labour-party,Labour Party,11,dublin-bay-south,Dublin Bay South
+Pamela ,Kearns,pkearns@sdublincoco.ie ,Male, Female,FALSE,12,labour-party,Labour Party,18,dublin-south-west,Dublin South-West
+Alan,Kelly,office@alankelly.ie,Male,TRUE,12,labour-party,Labour Party,37,tipperary,Tipperary
+John,Kelly,john.kelly@oireachtas.ie ,Male,FALSE,12,labour-party,Labour Party,35,roscommon-galway,Roscommon-Galway
+Ciaran ,Lynch,,Male,FALSE,12,labour-party,Labour Party,7,cork-south-central,Cork South-Central 
+Kathleen,Lynch,kathleen_lynch@health.gov.ie,Female,TRUE,12,labour-party,Labour Party,5,cork-north-central,Cork North-Central
+John,Lyons, john.lyons@oir.ie ,Male,TRUE,12,labour-party,Labour Party,15,dublin-north-west,Dublin North-West
+Michael,McCarthy,michael.mccarthy@oireachtas.ie,Male,TRUE,12,labour-party,Labour Party,8,cork-south-west,Cork South-West
+Tracy,McElhinney,mcelhinneytracy@gmail.com ,Female,FALSE,12,labour-party,Labour Party,33,meath-west,Meath West
+Michael ,McNamara,michael.mcnamara@oir.ie,Male,TRUE,12,labour-party,Labour Party,3,clare,Clare
+Mary,Moran,mary.moran@oir.ie,Female,FALSE,12,labour-party,Labour Party,30,louth,Louth
+Gerald ,Nash,gerald.nash@oir.ie,Male,TRUE,12,labour-party,Labour Party,30,louth,Louth
+Derek ,Nolan,derek.nolan@oir.ie ,Male,TRUE,12,labour-party,Labour Party,22,galway-west,Galway West
+Susan,O'Keefe,susan.okeeffe@oireachtas.ie  ,Female,FALSE,12,labour-party,Labour Party,36,sligo-leitrim,Sligo-Leitrim
+Aodhan ,O'Riordain,Aodhan.ORiordain@oireachtas.ie,Male,TRUE,12,labour-party,Labour Party,10,dublin-bay-north,Dublin Bay North
+Jan ,O'Sullivan,jan.osullivan@oireachtas.ie,Female,TRUE,12,labour-party,Labour Party,27,limerick-city,Limerick City
+Willie,Penrose,,Male,TRUE,12,labour-party,Labour Party,29,longford-westmeath,Longford-Westmeath
+Ann,Phelan,ann.phelan@oireachtas.ie ,Female,TRUE,12,labour-party,Labour Party,1,carlow-kilkenny,Carlow-Kilkenny
+Brendan,Ryan,brendan.ryan@oir.ie,Male,TRUE,12,labour-party,Labour Party,13,dublin-fingal,Dublin Fingal
+Sean,Sherlock,sean.sherlock@oir.ie,Male,TRUE,12,labour-party,Labour Party,4,cork-east,Cork East
+Carrie,Smyth,carriesmyth@cllr.dlrcoco.ie ,Female,FALSE,12,labour-party,Labour Party,20,dun-laoghaire,Dun Laoghaire
+Arthur,Spring,arthur.spring@oireachtas.ie ,Male,TRUE,12,labour-party,Labour Party,23,kerry,Kerry
+Emmett ,Stagg,emmet.stagg@oireachtas.ie,Male,TRUE,12,labour-party,Labour Party,24,kildare-north,Kildare North
+Joanna ,Tuffy,joanna.tuffy@oireachtas.ie,Female,TRUE,12,labour-party,Labour Party,14,dublin-mid-west,Dublin Mid-West
+Mark,Wall,markwalllabour@gmail.com,Male,FALSE,12,labour-party,Labour Party,25,kildare-south,Kildare South
+John,Whelan,,Male,FALSE,12,labour-party,Labour Party,26,laois,Laois
+Alex,White ,alex.white@oir.ie ,Male,TRUE,12,labour-party,Labour Party,16,dublin-rathdown,Dublin Rathdown
+Mick,Barry,mick_barry@corkcity.ie,Male,FALSE,13,people-before-profit-alliance,People Before Profit Alliance,5,cork-north-central,Cork North-Central
+Richard,Boyd-Barrett ,Richard.BoydBarrett@Oireachtas.ie,Male,TRUE,13,people-before-profit-alliance,People Before Profit Alliance,20,dun-laoghaire,Dun Laoghaire
+Sharon,Briggs,peoplebeforeprofitbray@gmail.com,Female,FALSE,13,people-before-profit-alliance,People Before Profit Alliance,40,wicklow,Wicklow
+Eddie,Conroy,,Male,FALSE,13,people-before-profit-alliance,People Before Profit Alliance,35,roscommon-galway,Roscommon-Galway
+Ruth,Coppinger,ruth.coppinger@oireachtas.ie ,Female,TRUE,13,people-before-profit-alliance,People Before Profit Alliance,19,dublin-west,Dublin West
+Anna,Doyle,annatrevaskisdoyle@eircom.net,Female,FALSE,13,people-before-profit-alliance,People Before Profit Alliance,40,wicklow,Wicklow
+Una,Dunphy,unadunphy@hotmail.com,Female,FALSE,13,people-before-profit-alliance,People Before Profit Alliance,38,waterford,Waterford
+Sandra,Fay,,Female,FALSE,13,people-before-profit-alliance,People Before Profit Alliance,18,dublin-south-west,Dublin South-West
+Brian,Finucane,Brian@peoplebeforeprofitkerry.ie,Male,FALSE,13,people-before-profit-alliance,People Before Profit Alliance,23,kerry,Kerry
+Nigel,Gallagher,nigelgallagherpbpsligo@gmail.com,Male,FALSE,13,people-before-profit-alliance,People Before Profit Alliance,36,sligo-leitrim,Sligo-Leitrim
+Tommy,Holohan,,Male,FALSE,13,people-before-profit-alliance,People Before Profit Alliance,22,galway-west,Galway West
+Andrew ,Keegan,andrew.keegan1@dublincity.ie,Male,FALSE,13,people-before-profit-alliance,People Before Profit Alliance,15,dublin-north-west,Dublin North-West
+Terry ,Kelleher,terry.kelleher@balbriggan.ie,Male,FALSE,13,people-before-profit-alliance,People Before Profit Alliance,13,dublin-fingal,Dublin Fingal
+Gino,Kenny,ginokenny@hotmail.com,Male,FALSE,13,people-before-profit-alliance,People Before Profit Alliance,14,dublin-mid-west,Dublin Mid-West
+Ciara,Leonardi Roche,,Female,FALSE,13,people-before-profit-alliance,People Before Profit Alliance,4,cork-east,Cork East
+John,Lyons,johnlyons@peoplebeforeprofit.ie,Male,FALSE,13,people-before-profit-alliance,People Before Profit Alliance,10,dublin-bay-north,Dublin Bay North
+Conor,Mac Liam,conormacliam@gmail.com,Male,FALSE,13,people-before-profit-alliance,People Before Profit Alliance,1,carlow-kilkenny,Carlow-Kilkenny
+Ashling,Merriman,,Female,FALSE,13,people-before-profit-alliance,People Before Profit Alliance,24,kildare-north,Kildare North
+Annette,Mooney,annette.mooney@peoplebeforeprofit.ie,Female,FALSE,13,people-before-profit-alliance,People Before Profit Alliance,11,dublin-bay-south,Dublin Bay South
+Tom,Moran,TomMoranPBP@gmail.com,Male,FALSE,13,people-before-profit-alliance,People Before Profit Alliance,31,mayo,Mayo
+Paul ,Murphy,paul.murphy@oireachtas.ie,Male,TRUE,13,people-before-profit-alliance,People Before Profit Alliance,18,dublin-south-west,Dublin South-West
+Michael,O'Brien,mobrien@dublincity.ie,Male,FALSE,13,people-before-profit-alliance,People Before Profit Alliance,10,dublin-bay-north,Dublin Bay North
+Jim,O'Connell,jimpbpcork@gmail.com,Male,FALSE,13,people-before-profit-alliance,People Before Profit Alliance,7,cork-south-central,Cork South-Central 
+Diana,O'Dwyer,,Female,FALSE,13,people-before-profit-alliance,People Before Profit Alliance,12,dublin-central,Dublin Central
+Cian ,Prendiville,,Male,FALSE,13,people-before-profit-alliance,People Before Profit Alliance,27,limerick-city,Limerick City
+Fiona,Ryan,,Female,FALSE,13,people-before-profit-alliance,People Before Profit Alliance,7,cork-south-central,Cork South-Central 
+Brid,Smith,brid.smith@dublincity.ie,Female,FALSE,13,people-before-profit-alliance,People Before Profit Alliance,17,dublin-south-central,Dublin South-Central
+Deirdre,Wadding,nilebird9@yahoo.co.uk,Female,FALSE,13,people-before-profit-alliance,People Before Profit Alliance,39,wexford,Wexford
+Adrienne ,Wallace,carlowkilkenny15@gmail.com,Female,FALSE,13,people-before-profit-alliance,People Before Profit Alliance,1,carlow-kilkenny,Carlow-Kilkenny
+Garett,Weldon,,Male,FALSE,13,people-before-profit-alliance,People Before Profit Alliance,30,louth,Louth
+Paul ,Bradford,paul.bradford@oir.ie,Male,FALSE,14,renua,Renua,4,cork-east,Cork East
+Donal ,Corcoran,,Male,FALSE,14,renua,Renua,23,kerry,Kerry
+Lucinda,Creighton ,,Female,TRUE,14,renua,Renua,11,dublin-bay-south,Dublin Bay South
+Frank,Cronin,,Male,FALSE,14,renua,Renua,20,dun-laoghaire,Dun Laoghaire
+Nicola ,Daveron,nicola@daveronsolicitors.ie,Female,FALSE,14,renua,Renua,22,galway-west,Galway West
+Alan,Deveron,renuadublinrathdown@gmail.com,Male,FALSE,14,renua,Renua,16,dublin-rathdown,Dublin Rathdown
+Anne ,Farrell,annefarrellrenua@gmail.com,Female,FALSE,14,renua,Renua,35,roscommon-galway,Roscommon-Galway
+Michael,Farrington,farringm@eircom.net,Male,FALSE,14,renua,Renua,31,mayo,Mayo
+Finbarr ,Filan,,Male,FALSE,14,renua,Renua,36,sligo-leitrim,Sligo-Leitrim
+Jason,Fitzgerald,,Male,FALSE,14,renua,Renua,6,cork-north-west,Cork North-West
+Shane,Fitzgerald,,Male,FALSE,14,renua,Renua,24,kildare-north,Kildare North
+Terence,Flanagan,terence.flanagan@oir.ie,Male,TRUE,14,renua,Renua,10,dublin-bay-north,Dublin Bay North
+Michael ,Gargan,,Male,FALSE,14,renua,Renua,17,dublin-south-central,Dublin South-Central
+Jacqui,Gilbourne,,Male,FALSE,14,renua,Renua,12,dublin-central,Dublin Central
+Ciaran,Kenneally,,Male,FALSE,14,renua,Renua,7,cork-south-central,Cork South-Central 
+Mary,Kennedy,mary.kennedy@renuaireland.com,Female,FALSE,14,renua,Renua,25,kildare-south,Kildare South
+John,Leahy,info@johnleahy.net,Male,FALSE,14,renua,Renua,34,offaly,Offaly
+Patrick,McKee,patrick@patrickmckee.ie,Male,FALSE,14,renua,Renua,1,carlow-kilkenny,Carlow-Kilkenny
+Ronan,McMahon,rmcmahon@cllrs.sdublincoco.ie,Male,FALSE,14,renua,Renua,18,dublin-south-west,Dublin South-West
+Gerry,Molloy,,Male,FALSE,14,renua,Renua,13,dublin-fingal,Dublin Fingal
+Jo,O'Brien,obrienjodublinwest@gmail.com,Female,FALSE,14,renua,Renua,19,dublin-west,Dublin West
+Michael,O'Dowd,michaelodowd@eircom.net,Male,FALSE,14,renua,Renua,30,louth,Louth
+Paddy ,O'Leary,paddy@presbind.ie,Male,FALSE,14,renua,Renua,5,cork-north-central,Cork North-Central
+Mailo,Power,,Female,FALSE,14,renua,Renua,38,waterford,Waterford
+Mary ,Smyth ,,Female,FALSE,14,renua,Renua,2,cavan-monaghan,Cavan-Monaghan
+Billy ,Timmins,,Male,TRUE,14,renua,Renua,40,wicklow,Wicklow
+Sarah,Tyrrell,,Male,FALSE,14,renua,Renua,32,meath-east,Meath East
+Gerry,Adams,Gerry.adams@oireachtas,Male,TRUE,15,sinn-fein,Sinn Fein,30,louth,Louth
+Chris,Andrews,chris.andrews@dublincity.ie,Male,FALSE,15,sinn-fein,Sinn Fein,11,dublin-bay-south,Dublin Bay South
+John,Brady,johnbradysf@gmail.com,Male,FALSE,15,sinn-fein,Sinn Fein,40,wicklow,Wicklow
+Seamus,Browne,browneseamus@hotmail.com,Male,FALSE,15,sinn-fein,Sinn Fein,28,limerick-county,Limerick County
+Pat,Buckley,patbuckleysf@yahoo.ie ,Male,FALSE,15,sinn-fein,Sinn Fein,4,cork-east,Cork East
+Cathleen,Carney Boud,,Female,FALSE,15,sinn-fein,Sinn Fein,15,dublin-north-west,Dublin North-West
+Rose ,Conway-Walsh,roseconwaywalsh@eircom.net,Female,FALSE,15,sinn-fein,Sinn Fein,31,mayo,Mayo
+Reada,Cronin,readacronin@hotmail.com,Female,FALSE,15,sinn-fein,Sinn Fein,24,kildare-north,Kildare North
+Sean,Crowe,Sean.Crowe@oireachtas.ie,Male,TRUE,15,sinn-fein,Sinn Fein,18,dublin-south-west,Dublin South-West
+David,Cullinane,david.cullinane@oireachtas.ie,Male,FALSE,15,sinn-fein,Sinn Fein,38,waterford,Waterford
+Nigel,Dennehy,nigeldennehysf@gmail.com,Male,FALSE,15,sinn-fein,Sinn Fein,6,cork-north-west,Cork North-West
+Maire,Devine,mdevine@cllrs.sdublincoco.ie,Female,FALSE,15,sinn-fein,Sinn Fein,17,dublin-south-central,Dublin South-Central
+Pearse,Doherty,pearse.doherty@oireachtas.ie,Male,TRUE,15,sinn-fein,Sinn Fein,9,donegal,Donegal
+Gary ,Doherty ,,Male,FALSE,15,sinn-fein,Sinn Fein,9,donegal,Donegal
+Paul ,Donnelly ,pauldonnelly.sinnfein@gmail.com,Male,FALSE,15,sinn-fein,Sinn Fein,19,dublin-west,Dublin West
+Dessie,Ellis,,Male,TRUE,15,sinn-fein,Sinn Fein,15,dublin-north-west,Dublin North-West
+Martin ,Ferris,martin.ferris@oireachtas.ie,Male,TRUE,15,sinn-fein,Sinn Fein,23,kerry,Kerry
+Kathleen ,Funchion,kathleenfunchionsf@gmail.com,Female,FALSE,15,sinn-fein,Sinn Fein,1,carlow-kilkenny,Carlow-Kilkenny
+Thomas,Gould,thomas_gould@corkcity.ie,Male,FALSE,15,sinn-fein,Sinn Fein,5,cork-north-central,Cork North-Central
+Paul,Hogan,phogan@westmeathcoco.ie,Male,FALSE,15,sinn-fein,Sinn Fein,29,longford-westmeath,Longford-Westmeath
+Sarah ,Holland,sarahjtholland@hotmail.com ,Female,FALSE,15,sinn-fein,Sinn Fein,18,dublin-south-west,Dublin South-West
+Martin,Kenny,martinkenny40@gmail.com,Male,FALSE,15,sinn-fein,Sinn Fein,36,sligo-leitrim,Sligo-Leitrim
+Claire ,Kerrane,ckerrane@gmail.com,Female,FALSE,15,sinn-fein,Sinn Fein,35,roscommon-galway,Roscommon-Galway
+Michael,Mac Donncha,mmacdonncha@gmail.com,Male,FALSE,15,sinn-fein,Sinn Fein,10,dublin-bay-north,Dublin Bay North
+Padraig,MacLochlainn,padraig.maclochlainn@oireachtas.ie,Male,TRUE,15,sinn-fein,Sinn Fein,9,donegal,Donegal
+Chris,MacManus,chris@chrismacmanus.ie,Male,FALSE,15,sinn-fein,Sinn Fein,36,sligo-leitrim,Sligo-Leitrim
+Rachel ,McCarthy,rachelmmccarthy2003@yahoo.com,Female,FALSE,15,sinn-fein,Sinn Fein,8,cork-south-west,Cork South-West
+Mary Lou,McDonald,marylou@sinnfein.ie,Female,TRUE,15,sinn-fein,Sinn Fein,12,dublin-central,Dublin Central
+Denise,Mitchell,denise.mitchell@dublincity.ie,Female,FALSE,15,sinn-fein,Sinn Fein,10,dublin-bay-north,Dublin Bay North
+Noeleen,Moran,claresinnfein@hotmail.com,Female,FALSE,15,sinn-fein,Sinn Fein,3,clare,Clare
+Seamus,Morris,,Male,FALSE,15,sinn-fein,Sinn Fein,37,tipperary,Tipperary
+Imelda,Munster,imelda.munster@louthcoco.ie,Female,FALSE,15,sinn-fein,Sinn Fein,30,louth,Louth
+Johnny,Mythen,mythenjohnny@gmail.com,Male,FALSE,15,sinn-fein,Sinn Fein,39,wexford,Wexford
+Sorcha ,Nic Cormaic,sniccormaic@cllr.dlrcoco.ie,Female,FALSE,15,sinn-fein,Sinn Fein,16,dublin-rathdown,Dublin Rathdown
+Carol,Nolan,Email: nu1carolnolan@gmail.com,Female,FALSE,15,sinn-fein,Sinn Fein,34,offaly,Offaly
+Johnathan,O'Brien,jonathan.obrien@oireachtas.ie,Male,TRUE,15,sinn-fein,Sinn Fein,5,cork-north-central,Cork North-Central
+Shane,O'Brien ,sobrien@cllr.dlrcoco.ie,Male,FALSE,15,sinn-fein,Sinn Fein,20,dun-laoghaire,Dun Laoghaire
+Eoin ,O'Broin,eobroin@cllrs.sdublincoco.ie,Male,FALSE,15,sinn-fein,Sinn Fein,14,dublin-mid-west,Dublin Mid-West
+Caoimhghin,O'Caolain,caoimhghin.ocaolain@oireachtas.ie,Male,TRUE,15,sinn-fein,Sinn Fein,2,cavan-monaghan,Cavan-Monaghan
+Trevor,O'Clochartaigh,trevor.oclochartaigh@oireachtas.ie ,Male,FALSE,15,sinn-fein,Sinn Fein,22,galway-west,Galway West
+Donnchadh,O'Laoghaire,donnchadhol@hotmail.com,Male,FALSE,15,sinn-fein,Sinn Fein,7,cork-south-central,Cork South-Central 
+Louise ,O'Reilly,,Female,FALSE,15,sinn-fein,Sinn Fein,13,dublin-fingal,Dublin Fingal
+Darren,O'Rourke,darrenorourke2006@gmail.com,Male,FALSE,15,sinn-fein,Sinn Fein,32,meath-east,Meath East
+Aengus,O'Snodaigh,aengus.osnodaigh@oireachtas.ie,Male,TRUE,15,sinn-fein,Sinn Fein,17,dublin-south-central,Dublin South-Central
+Maurice ,Quinlivan,cllrmauricequinlivan@gmail.com,Male,FALSE,15,sinn-fein,Sinn Fein,27,limerick-city,Limerick City
+Kathryn ,Reilly ,kathryn.reilly@oireachtas.ie,Female,FALSE,15,sinn-fein,Sinn Fein,2,cavan-monaghan,Cavan-Monaghan
+Annemarie ,Roche,,Female,FALSE,15,sinn-fein,Sinn Fein,21,galway-east,Galway East
+Patricia ,Ryan,particiaryan753@gmail.com,Female,FALSE,15,sinn-fein,Sinn Fein,25,kildare-south,Kildare South
+Brian,Stanley,brian.stanley@oireachtas.ie,Male,TRUE,15,sinn-fein,Sinn Fein,26,laois,Laois
+Peadar ,Toibin,peadar.toibin@oireachtas.ie,Male,TRUE,15,sinn-fein,Sinn Fein,33,meath-west,Meath West
+Liam ,Coyne,,Male,FALSE,16,social-democrats,Social Democrats,17,dublin-south-central,Dublin South-Central
+Ken,Curtin,,Male,FALSE,16,social-democrats,Social Democrats,4,cork-east,Cork East
+Stephen,Donnelly,Stephen.Donnelly@oireachtas.ie,Male,TRUE,16,social-democrats,Social Democrats,40,wicklow,Wicklow
+Gary,Gannon,gary.gannon@dublincity.ie,Male,FALSE,16,social-democrats,Social Democrats,12,dublin-central,Dublin Central
+James,Heffernan ,james.heffernan@oireachtas.ie ,Male,FALSE,16,social-democrats,Social Democrats,28,limerick-county,Limerick County
+Sarah Jane ,Hennelly ,sarahjanehennelly@gmail.com,Female,FALSE,16,social-democrats,Social Democrats,27,limerick-city,Limerick City
+Leonard,Kelly,,Male,FALSE,16,social-democrats,Social Democrats,39,wexford,Wexford
+Glenna ,Lynch,,Female,FALSE,16,social-democrats,Social Democrats,11,dublin-bay-south,Dublin Bay South
+Anne-Marie ,McNally,,Female,FALSE,16,social-democrats,Social Democrats,14,dublin-mid-west,Dublin Mid-West
+Catherine,Murphy,catherine.murphy@oireachtas.ie,Female,TRUE,16,social-democrats,Social Democrats,24,kildare-north,Kildare North
+Cian,O'Callaghan,cianocallaghan3@gmail.com,Male,FALSE,16,social-democrats,Social Democrats,10,dublin-bay-north,Dublin Bay North
+Aisling ,O'Neill ,aislingoneillmeath@gmail.com,Female,FALSE,16,social-democrats,Social Democrats,32,meath-east,Meath East
+Niall,O'Tuathail,niallotuathail@gmail.com,Male,FALSE,16,social-democrats,Social Democrats,22,galway-west,Galway West
+Roisin,Shortall,,Female,TRUE,16,social-democrats,Social Democrats,15,dublin-north-west,Dublin North-West
+Jimmy,Dignam,,Male,FALSE,19,the-workers-party,The Workers' Party,15,dublin-north-west,Dublin North-West
+Lorraine ,Hennessy,,Female,FALSE,19,the-workers-party,The Workers' Party,14,dublin-mid-west,Dublin Mid-West
+Seamus ,McDonagh,info@wpi-meath.org,Male,FALSE,19,the-workers-party,The Workers' Party,32,meath-east,Meath East
+Eilis,Ryan,eilis.ryan@dublincity.ie,Female,FALSE,19,the-workers-party,The Workers' Party,12,dublin-central,Dublin Central
+Ted,Tynan,,Male,FALSE,19,the-workers-party,The Workers' Party,5,cork-north-central,Cork North-Central
